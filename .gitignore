@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+*.iml
+temp/
+__pycache__
+db.sqlite3
+venv/
