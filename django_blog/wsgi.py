@@ -8,7 +8,8 @@ https://docs.djangoproject.com/en/3.1/howto/deployment/wsgi/
 """
 
 import os
-
+import sys
+sys.path.append('/home/ec2-user/.pyenv/versions/uwsgi-env/lib/python3.7/site-packages')
 from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_blog.settings')
