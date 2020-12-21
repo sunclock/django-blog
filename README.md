@@ -1,4 +1,4 @@
-# django-tutorial
+# django_blog
 django tutorial by @CoreyMSchafer
 
 Tasks
