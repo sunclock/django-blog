@@ -29,7 +29,8 @@ $ python manage.py runserver
 ~~~
 
 5. Access to the django_blog website
-[default server address is http://127.0.0.1:8000/](#http://127.0.0.1:8000/)
+
+default server address is http://127.0.0.1:8000/
 
 ---
 
